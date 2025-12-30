@@ -56,6 +56,6 @@ Wikipedia page, mostly about Vector's history.
 
 Language: easy
 
-## [Anki OTAs archive](https://modder.my.to/otas/Anki/index.html)
+## [Anki OTAs archive](https://archive.org/download/Anki-proto-prod-Vector-firmware)
 
 It stores all sorts of OTAs.
