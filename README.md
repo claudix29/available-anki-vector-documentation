@@ -39,12 +39,6 @@ The Unofficial Anki/DDL Wiki.
 
 Language: Easy
 
-## [Unlocking Vector](https://unlock-prod.froggitti.net/)
-
-A guide on how to unlock production bots.
-
-Language: Easy
-
 ## [Unlocking Vector (CPU SWAP)](https://github.com/kercre123/unlocking-vector)
 A guide on how to unlock production bots via cpu swap, includes other useful info too!
 
@@ -64,3 +58,21 @@ Language: Easy
 ## [Anki OTAs archive](https://archive.org/download/Anki-proto-prod-Vector-firmware)
 
 It stores all sorts of OTAs.
+
+# Useful websites/tools
+
+## [Unlocking Vector](https://unlock-prod.froggitti.net/)
+
+A guide on how to unlock production bots.
+
+## [Froggitti's websetup](https://websetup.froggitti.net/)
+
+You can install CFWs onto unlocked bots here.
+
+Language: Easy
+
+## [No-flow devsetup](https://www.project-victor.org/noflow-devsetup/html/main.html)
+
+Gives you access to the bluetooth terminal.
+
+Usage difficulty: medium
