@@ -41,9 +41,7 @@ Language: Easy
 
 ## [Unlocking Vector (CPU SWAP)](https://github.com/kercre123/unlocking-vector)
 
-A guide on how to unlock production bots via cpu swap, includes other useful info too!
-
-(CPU swapping isn't needed anymore to unlock bots, see [how to unlock prod bots](https://unlock-prod.froggitti.net/))
+A 
 
 Language: Extremely Technical
 
@@ -67,9 +65,14 @@ Language: Easy
 
 ## [Info on Unlocking Vector](https://github.com/kercre123/unlocking-vector)
 
+It includes a guide on how to unlock production bots via cpu swap, and other useful info too!
+
+(CPU swapping isn't needed anymore to unlock bots, see [how to unlock prod bots](https://unlock-prod.froggitti.net/))
+
+
 This was made before signing keys were leaked, so it's a bit outdated. Still pretty informative.
 
-Language: Pretty easy
+Language: Technical
 
 ## [Anki OTAs archive](https://archive.org/download/Anki-proto-prod-Vector-firmware)
 
