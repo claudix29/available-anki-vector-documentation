@@ -92,7 +92,7 @@ Usage difficulty: Medium
 
 ## [SSH custom commands](https://github.com/claudix29/available-anki-vector-documentation/blob/main/documents/ssh-commans.md)
 
-DEV OTAs give SHH access to the linux system. It's useful to know the custom Vector commands
+DEV OTAs give SSH access to the linux system. It's useful to know the custom Vector commands
 
 ## [Bluetooth terminal commands](https://github.com/claudix29/available-anki-vector-documentation/blob/main/documents/bluetooth-commands.md)
 
