@@ -5,7 +5,7 @@ DISCLAIMER: Part of the documentation might be outdated. It's still pretty usefu
 
 ## [DDL Support Documentation](https://github.com/bussardrobbie/ddl-docs)
 
-This repository was, at the time, a last-ditch effort to provide documentation for the community while Digital Dream Labs was on the absolute brink of bankruptcy and their operations were at risk. While DDL maintains an [online copy of this support documentation](https://support.digitaldreamlabs.com) it does not appear to be updated frequently or accurately. The repository here can be utilized by the community to build a knowledge base that is more up-to-date and accurate, if they wish, using these as a base.
+This repository was, at the time, a last-ditch effort to provide documentation for the community while Digital Dream Labs was on the absolute brink of bankruptcy and their operations were at risk. While DDL still maintains an [online copy of this support documentation](https://support.digitaldreamlabs.com), at the time of writing DDL appears to be operating with a skeleton crew and the online docs do not appear to be updated frequently or accurately. The repository here can be utilized by the community to build a knowledge base that is more up-to-date and accurate, if they wish, using these as a base.
 
 Language: Non-Technical (with exception to OSKR areas)
 
@@ -51,13 +51,13 @@ A bit outdated and about OSKR, but still useful for dev purposes.
 
 Language: Technical
 
-## [Wikipedia page](https://en.wikipedia.org/wiki/Anki_(American_company)#Vector)
+## [Wikipedia Page](https://en.wikipedia.org/wiki/Anki_(American_company)#Vector)
 
 Wikipedia page, mostly about Vector's history.
 
 Language: Easy
 
-## [Vector prototypes](https://github.com/claudix29/available-anki-vector-documentation/blob/main/documents/vector-prototypes.md)
+## [Vector Prototypes](https://github.com/claudix29/available-anki-vector-documentation/blob/main/documents/vector-prototypes.md)
 
 Vector's developmental stages
 
@@ -74,7 +74,7 @@ This was made before signing keys were leaked, so it's a bit outdated. Still pre
 
 Language: Technical
 
-## [Anki OTAs archive](https://archive.org/download/Anki-proto-prod-Vector-firmware)
+## [Anki OTAs Archive](https://archive.org/download/Anki-proto-prod-Vector-firmware)
 
 It stores all sorts of OTAs (Over-The-Air updates; firmware).
 
@@ -100,6 +100,6 @@ Usage difficulty: Medium
 
 DEV OTAs give SSH access to the linux system. It's useful to know the custom Vector commands.
 
-## [Bluetooth terminal commands](https://github.com/claudix29/available-anki-vector-documentation/blob/main/documents/bluetooth-commands.md)
+## [Bluetooth Terminal Commands](https://github.com/claudix29/available-anki-vector-documentation/blob/main/documents/bluetooth-commands.md)
 
 You can use those in the Bluetooth terminal, for example with no-flow devsetup.
