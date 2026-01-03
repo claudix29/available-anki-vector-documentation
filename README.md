@@ -3,6 +3,10 @@ The purpose of this repository is to bring together in a single place all the av
 
 DISCLAIMER: part of the documentation might be outdated. It's still pretty useful though.
 
+## [DDL Support Documentation](https://github.com/bussardrobbie/ddl-docs)
+
+This repository was, at the time, a last-ditch effort to provide documentation for the community while Digital Dream Labs was on the absolute brink of bankruptcy and their operations were at risk. While DDL maintains an [online copy of this support documentation](https://support.digitaldreamlabs.com) it does not appear to be updated frequently or accurately. The repository here can be utilized by the community to build a knowledge base that is more up-to-date and accurate, if they wish, using these as a base.
+
 ## [DDL vector docs](https://github.com/digital-dream-labs/vector/tree/main/docs)
 
 Docs about Vector's firmware, hardware and development made available by DDL.
