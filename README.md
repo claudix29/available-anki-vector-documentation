@@ -31,7 +31,7 @@ Language: Somewhat Technical
 
 Overview of various Vector-related topics and some useful guides and how-to's
 
-Language: Semi-Technical 
+Language: Semi-Technical and Technical
 
 ## [WireOS](https://github.com/os-vector/wire-os/blob/main/README.md) and [wire-os-victor](https://github.com/os-vector/wire-os-victor)
 
