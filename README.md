@@ -80,6 +80,10 @@ This was made before signing keys were leaked, so it's a bit outdated. Still pre
 
 Language: Technical
 
+## [Vector custom bodyboard](https://github.com/Lrdsnow/CustomVectorBody)
+
+Info on the efforts to make a open source, custom bodyboard
+
 ## [Anki OTAs Archive](https://archive.org/download/Anki-proto-prod-Vector-firmware)
 
 It stores all sorts of OTAs (Over-The-Air updates; firmware).
