@@ -106,7 +106,7 @@ Gives you access to the bluetooth terminal.
 
 Usage difficulty: Medium
 
-## [SSH Custom Commands](https://github.com/claudix29/available-anki-vector-documentation/blob/main/documents/ssh-commans.md)
+## [SSH Custom Commands](https://github.com/claudix29/available-anki-vector-documentation/blob/main/documents/ssh-commands.md)
 
 DEV OTAs give SSH access to the linux system. It's useful to know the custom Vector commands.
 
